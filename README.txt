@@ -21,7 +21,7 @@ JDK - 1.6 or higher
 Build
 =====
 mvn clean package
-m
+
 
 Run unit test
 =============
