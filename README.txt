@@ -15,7 +15,7 @@ Functionality testing is covered with unit testing
 Dependencies
 ============
 Maven  - 3.0.3
-JDK - 1.6 or higherr
+JDK - 1.6 or higher
 
 
 Build
